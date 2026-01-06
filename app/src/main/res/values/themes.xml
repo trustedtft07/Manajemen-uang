@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AplikasiKeuangan" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#111827</item>
+        <item name="colorPrimaryVariant">#030712</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
