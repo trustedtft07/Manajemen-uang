@@ -13,3 +13,9 @@ data class Transaction(
     val type: TransactionType,
     val date: String
 )
+
+data class FinanceSummary(
+    val balance: Long,
+    val totalIncome: Long,
+    val totalExpense: Long
+)
